@@ -1,6 +1,5 @@
 # MuseScore: Music notation and composition software
 
-## Features
 
 * WYSIWYG design, notes are entered on a "virtual notepaper"
 * TrueType font(s) for printing & display allows for high quality scaling to all sizes
@@ -111,5 +110,3 @@ A debug version can be built by doing `make debug` above, instead of `make relea
 
 To test the debug version, type
 
-    cd build.debug/mscore
-    ./mscore
